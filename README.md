@@ -1,23 +1,23 @@
-## Bestest little Higgs and Machine Learning framework
+## Particlenet implementation 
 
 
-Code to simulate Higgs physics beyond the standard model with Pythia8
+Code to particlenet
 
 ### Framework installation
 
 To install the framework you need anaconda and git on a linux machine. In a terminal type:
 1. Clone the repository:
   ```
-  git clone git@github.com:andrex-naranjas/higgsbsm-fw
+  git clone git@github.com:oscarA01638173/ml_jet_tagging.git
   ```
 2. Access the code:
   ```
-  cd higgsbsm-fw
+  cd ml_jet_tagging
   ```
 3. Install the conda enviroment:
   ```
   conda env create -f config.yml
-  conda activate hep-ml
+  conda activate particle-net
   conda develop .
   ```
 3.1 Update the conda enviroment:

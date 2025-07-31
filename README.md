@@ -24,3 +24,6 @@ To install the framework you need anaconda and git on a linux machine. In a term
    ```
    conda env update --file config.yml --prune
    ```
+   
+## Link to data
+https://zenodo.org/records/2603256

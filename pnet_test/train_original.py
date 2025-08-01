@@ -11,7 +11,7 @@ from sklearn import metrics
 import torch.nn.functional as F
 
 
-from PN_full import ParticleNet
+from PN_original import ParticleNet
 
 import numpy as np
 
